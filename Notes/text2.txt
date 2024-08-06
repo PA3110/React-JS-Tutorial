@@ -1,0 +1,17 @@
+// make a new repo in github also drag and drop a new folder at vs code
+// git k kaam krn hai 
+// react k doc user-friendly ny hai
+// bundler hai - vite and parcel
+// react - react DOM(web) , react native(app)
+// npm - node package manager, npx-node package executor
+// create react app - utility hai ek tarah ka software
+// project banne baad (cd name) krke project ke andar package.json file kholna hai
+// oske baad dir kholkr package.json dikhna chahiye
+// fir npm run start kholnge
+
+
+
+// use vite - type in terminal, then type name of the project, then select a framework(react)
+// then choose a variant of the react(JS), then enter(run) it, then we have to download something,
+// type cd vite-project, then enter dir, then type npm install, then npm run dev, then link will be provided, click and open it.
+// start deleting files, keep only app.jsx and main.jsx till now
